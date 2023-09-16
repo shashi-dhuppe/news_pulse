@@ -2,6 +2,10 @@
 
 Utilizes AWS, Kafka, and ELT processes to aggregate, analyze, and visualize news data in real-time. Designed to offer scalable and real-time insights into global news trends through a simple web interface.
 
+## Architecture
+
+![](https://github.com/shashi-dhuppe/news_pulse/blob/main/News%20Pulse%20Architecture.png)
+
 ## Technologies Used:
 
 1. **AWS Services**
